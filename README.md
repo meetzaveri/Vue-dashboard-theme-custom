@@ -2,7 +2,7 @@
 Inspired by creative tim's dashboard , I am implementing various themes into vue-dashboard
 Inspired by creative tim's dashboard , I am integrating various themes into vue-dashboard.
 
-Here's the github project of vue-paper-dashboard - https://github.com/cristijora/vue-paper-dashboard
+Here's the github project of vue-paper-dashboard by Cristi Jora- https://github.com/cristijora/vue-paper-dashboard
 
 TODO - 
 - To implement various themes
